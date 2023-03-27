@@ -16,3 +16,7 @@
   - [Chat stream example](https://github.com/emikhalev/chatgpt-golang-examples/blob/chat/main.go)
 - Edits
   - [Edits example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/edit/main.go)
+  
+- Images
+  - [Images example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images/main.go)
+
