@@ -6,13 +6,13 @@
 
 #### Examples
 - Models
-  - [List models and retrieve model examples](blob/main/models/main.go)
+  - [List models and retrieve model examples](https://github.com/emikhalev/chatgpt-golang-examplesblob/main/models/main.go)
 - Completions
-  - [Completions example](blob/main/completions/main.go)
-  - [Completions stream example](blob/main/completions_stream/main.go)
+  - [Completions example](https://github.com/emikhalev/chatgpt-golang-examplesblob/main/completions/main.go)
+  - [Completions stream example](https://github.com/emikhalev/chatgpt-golang-examplesblob/main/completions_stream/main.go)
     
 - Chats
-  - [Chat example](blob/main/chat/main.go)
-  - [Chat stream example](blob/chat/main.go)
+  - [Chat example](https://github.com/emikhalev/chatgpt-golang-examplesblob/main/chat/main.go)
+  - [Chat stream example](https://github.com/emikhalev/chatgpt-golang-examplesblob/chat/main.go)
 - Edits
-  - [Edits example](blob/main/edit/main.go)
+  - [Edits example](https://github.com/emikhalev/chatgpt-golang-examplesblob/main/edit/main.go)
