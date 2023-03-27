@@ -6,13 +6,13 @@
 
 #### Examples
 - Models
-  - [List models and retrieve model examples](../blob/master/models/main.go)
+  - [List models and retrieve model examples](blob/main/models/main.go)
 - Completions
-  - [Completions example](../blob/master/completions/main.go)
-  - [Completions stream example](../blob/master/completions_stream/main.go)
+  - [Completions example](blob/main/completions/main.go)
+  - [Completions stream example](blob/main/completions_stream/main.go)
     
 - Chats
-  - [Chat example](../blob/master/chat/main.go)
-  - [Chat stream example](../blob/chat/main.go)
+  - [Chat example](blob/main/chat/main.go)
+  - [Chat stream example](blob/chat/main.go)
 - Edits
-  - [Edits example](../blob/master/edit/main.go)
+  - [Edits example](blob/main/edit/main.go)
