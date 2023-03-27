@@ -1,10 +1,10 @@
-##chatgpt-golang-examples
+## chatgpt-golang-examples
 
-####Examples of usage different Golang ChatGPT libraries:
+#### Examples of usage different Golang ChatGPT libraries:
 - [github.com/sashabaranov/go-openai](github.com/sashabaranov/go-openai)
 - [github.com/otiai10/openaigo](github.com/sashabaranov/go-openai)
 
-####Examples
+#### Examples
 - Models
   - [List models and retrieve model examples](../blob/master/models/main.go)
 - Completions
