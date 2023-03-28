@@ -19,4 +19,5 @@
   
 - Images
   - [Images example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images/main.go)
+  - [Images Edits](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images_edits/main.go)
 
