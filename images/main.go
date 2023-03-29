@@ -16,23 +16,23 @@ func main() {
 
 	{ // otiai10
 		client := otiai10.NewClient(apiKey)
-		completion, err := client.CreateImage(ctx, otiai10.ImageGenerationRequestBody{
+		images, err := client.CreateImage(ctx, otiai10.ImageGenerationRequestBody{
 			Prompt: "A cute baby sea otter",
 			N:      2,
 			Size:   "1024x1024",
 		})
 		fmt.Printf("otiai10 CreateImage: %v \n (err: %+v)\n\n",
-			utils.SPrintStruct(completion), err)
+			utils.SPrintStruct(images), err)
 	}
 
 	{ // sashabaranov
 		client := sashabaranov.NewClient(apiKey)
-		completion, err := client.CreateImage(ctx, sashabaranov.ImageRequest{
+		images, err := client.CreateImage(ctx, sashabaranov.ImageRequest{
 			Prompt: "A cute baby sea otter",
 			N:      2,
 			Size:   "1024x1024",
 		})
 		fmt.Printf("sashabaranov CreateImage: %v \n (err: %+v)\n\n",
-			utils.SPrintStruct(completion), err)
+			utils.SPrintStruct(images), err)
 	}
 }
