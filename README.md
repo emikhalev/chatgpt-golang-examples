@@ -21,8 +21,7 @@
   - [Images example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images/main.go)
   - [Images Edits example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images_edits/main.go)
   - [Images Variations example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images_variations/main.go)
-  
 
-  
-
-
+- Audio
+  - [Audio Transcription](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_transcription/main.go)
+  - [Audio Translation](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_translation/main.go)
