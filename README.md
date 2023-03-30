@@ -25,3 +25,11 @@
 - Audio
   - [Audio Transcription](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_transcription/main.go)
   - [Audio Translation](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_translation/main.go)
+
+- Files
+  - [List Files](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_list_file/main.go)
+  - [Upload File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_upload_file/main.go)
+  - [Delete File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_delete_file/main.go)
+  - [Retrieve File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file/main.go)
+  - [Retrieve File Content](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file_content/main.go)
+
