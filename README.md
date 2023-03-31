@@ -23,27 +23,30 @@
   - [Images Variations example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images_variations/main.go)
 
 - Audio
-  - [Audio Transcription](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_transcription/main.go)
-  - [Audio Translation](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_translation/main.go)
+  - [Audio Transcription example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_transcription/main.go)
+  - [Audio Translation example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_translation/main.go)
 
 - Files
-  - [List Files](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_list_file/main.go)
-  - [Upload File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_upload_file/main.go)
-  - [Delete File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_delete_file/main.go)
-  - [Retrieve File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file/main.go)
-  - [Retrieve File Content](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file_content/main.go)
+  - [List Files example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_list_file/main.go)
+  - [Upload File example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_upload_file/main.go)
+  - [Delete File example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_delete_file/main.go)
+  - [Retrieve File example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file/main.go)
+  - [Retrieve File Content example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file_content/main.go)
 
 - Fine-Tunes
-  - [Create fine-tune](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_create/main.go)
-  - [List fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_list/main.go)
-  - [Retrieve fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_retrieve/main.go)
-  - [Cancel fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_cancel/main.go)
-  - [List fine-tunes event](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_list_events/main.go)
-  - [List fine-tunes delete model](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_delete_model/main.go)
+  - [Create fine-tune example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_create/main.go)
+  - [List fine-tunes example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_list/main.go)
+  - [Retrieve fine-tunes example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_retrieve/main.go)
+  - [Cancel fine-tunes example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_cancel/main.go)
+  - [List fine-tunes event example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_list_events/main.go)
+  - [List fine-tunes delete model example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_delete_model/main.go)
 
 - Moderations
-  - [Create](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/moderations_create/main.go)
-  - [Retrieve](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/moderations_retrieve/main.go)
+  - [Create example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/moderations_create/main.go)
+    
+- Engines
+  - [List example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/engines_list/main.go)
+  - [Retrieve example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/engines_retrieve/main.go)
   
 
 
