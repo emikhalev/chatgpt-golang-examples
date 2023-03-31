@@ -43,6 +43,7 @@
 
 - Moderations
   - [Create](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/moderations_create/main.go)
+  - [Retrieve](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/moderations_retrieve/main.go)
   
 
 
