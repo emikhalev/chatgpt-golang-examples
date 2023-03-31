@@ -39,5 +39,11 @@
   - [Retrieve fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_retrieve/main.go)
   - [Cancel fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_cancel/main.go)
   - [List fine-tunes event](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_list_events/main.go)
+  - [List fine-tunes delete model](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_delete_model/main.go)
+
+- Moderations
+  - [Create](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/moderations_create/main.go)
+  
+
 
 
