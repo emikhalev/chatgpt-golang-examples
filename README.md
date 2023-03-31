@@ -37,5 +37,6 @@
   - [Create fine-tune](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_create/main.go)
   - [List fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_list/main.go)
   - [Retrieve fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_retrieve/main.go)
+  - [Cancel fine-tunes](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_cancel/main.go)
 
 
