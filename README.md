@@ -33,3 +33,7 @@
   - [Retrieve File](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file/main.go)
   - [Retrieve File Content](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/files_retrieve_file_content/main.go)
 
+- Fine-Tunes
+  - [Create fine-tune](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/fine_tunes_create/main.go)
+
+
