@@ -13,7 +13,8 @@
     
 - Chats
   - [Chat example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/chat/main.go)
-  - [Chat stream example](https://github.com/emikhalev/chatgpt-golang-examples/blob/chat/main.go)
+  - [Chat stream example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/chat_stream/main.go)
+  
 - Edits
   - [Edits example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/edit/main.go)
   
@@ -21,6 +22,9 @@
   - [Images example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images/main.go)
   - [Images Edits example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images_edits/main.go)
   - [Images Variations example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/images_variations/main.go)
+
+- Embeddings
+  - [Embeddings example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/embeddings/main.go)
 
 - Audio
   - [Audio Transcription example](https://github.com/emikhalev/chatgpt-golang-examples/blob/main/audio_transcription/main.go)
