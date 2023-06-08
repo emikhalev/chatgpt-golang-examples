@@ -1,5 +1,7 @@
 ## chatgpt-golang-examples
 
+This repository contains examples for the article: [ChatGPT Go Libraries: A Comparison With Examples](https://hackernoon.com/chatgpt-go-libraries-a-comparison-with-examples)
+
 #### Examples of usage different Golang ChatGPT libraries:
 - [github.com/sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)
 - [github.com/otiai10/openaigo](https://github.com/otiai10/openaigo)
